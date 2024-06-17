@@ -186,8 +186,8 @@ flex-wrap: wrap;
   transition: all 0.5s;
   display: flex;
   justify-content: center;
-width:5em
-height:3em
+  width:5em;
+  height:3em;
 }
 
   .card-img:hover {
